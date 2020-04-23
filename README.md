@@ -7,6 +7,9 @@ Exploring the world wide data
 Forecasting the world wide COVID-19 cases using Prophet
 
 ## Installation
+google colab
+
+## Installation
 git clone
 
 ## Author
