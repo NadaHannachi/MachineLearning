@@ -6,6 +6,10 @@ Is this trend similar to Italy/S. Korea/ Wuhan
 Exploring the world wide data
 Forecasting the world wide COVID-19 cases using Prophet
 
+## On youtube
+
+https://www.youtube.com/watch?v=oAhHUCnCigo
+
 ## Installation
 google colab
 
