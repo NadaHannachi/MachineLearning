@@ -11,10 +11,9 @@ Forecasting the world wide COVID-19 cases using Prophet
 https://www.youtube.com/watch?v=oAhHUCnCigo
 
 ## Installation
-google colab
-
-## Installation
 git clone
+
+google colab
 
 ## Author
 Ilhem Laroussi
